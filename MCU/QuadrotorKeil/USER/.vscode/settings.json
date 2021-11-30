@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "files.autoGuessEncoding": "true",
-        "delay.h": "c"
+        "delay.h": "c",
+        "usart.h": "c"
     }
 }

@@ -3,17 +3,17 @@
         {
             "name": "Template",
             "includePath": [
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\CORE",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HALLIB\\Inc",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\USER",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\SYSTEM_OEDA\\delay",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\SYSTEM_OEDA\\sys",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\SYSTEM_OEDA\\usart",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HARDWARE\\BASIC\\ESC\\inc",
-                "C:\\Program Files\\Keil_v5\\ARM\\ARMCC\\include",
-                "C:\\Program Files\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HALLIB\\Src",
-                "c:\\Users\\CubLWolf\\Desktop\\Working\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HARDWARE\\BASIC\\ESC\\src"
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\CORE",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HALLIB\\Inc",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\USER",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\SYSTEM_OEDA\\delay",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\SYSTEM_OEDA\\sys",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\SYSTEM_OEDA\\usart",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HARDWARE\\BASIC\\ESC\\inc",
+                "C:\\Keil_v5\\ARM\\ARMCC\\include",
+                "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HALLIB\\Src",
+                "c:\\Users\\cublw\\Desktop\\Work\\EECS\\UAV\\Quadrotor\\MCU\\QuadrotorKeil\\HARDWARE\\BASIC\\ESC\\src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
